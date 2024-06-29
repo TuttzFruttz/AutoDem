@@ -1,0 +1,26 @@
+AutoDem
+
+Purpose:
+AutoDem is a user-friendly tool designed to simplify demo recording in Counter-Strike 1.6. Developed by TuttiFrutti, it allows gamers to effortlessly capture and manage gameplay moments with minimal effort.
+
+Features:
+- One-Key Operation: Start and stop recordings with a single key press.
+- Flexible Naming: Choose preset or randomly generated file names for easy organization.
+- Chat Indication: Shows in-game chat whether recording has started or not.
+- Sound Notifications: Alerts for recording status changes to keep you informed.
+- Developer 1 Mode: Displays developer information to indicate when recording has started or stopped.
+- FPS Display: Shows frames per second during recordings, turning off to indicate recording has stopped.
+- Blinking Red Dot: Visual indicator while recording for clear status awareness.
+
+Developer:
+TuttiFrutti (Contact: [https://gamebanana.com/members/1615209])
+
+Usage:
+1. Launch AutoDem.exe.
+2. Press [Key] to start recording.
+3. Press [Key] again to stop recording.
+4. Access recorded demos in the specified folder.
+
+For any issues or feedback, please contact TuttiFrutti at [https://gamebanana.com/members/1615209].
+
+Thank you for using AutoDem!

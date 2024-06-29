@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RadioDateChecked>false</RadioDateChecked>
+  <RadioCustomChecked>false</RadioCustomChecked>
+  <RadioRandomChecked>true</RadioRandomChecked>
+  <RadioNormalChatChecked>false</RadioNormalChatChecked>
+  <RadioTeamChatChecked>true</RadioTeamChatChecked>
+  <Cbox1SelectedIndex>2</Cbox1SelectedIndex>
+  <CmbKeyStartSelectedIndex>8</CmbKeyStartSelectedIndex>
+  <CmbKeyStopSelectedIndex>9</CmbKeyStopSelectedIndex>
+  <TxtDemoName>myhackingsession</TxtDemoName>
+  <TxtSequence>0001</TxtSequence>
+  <TxtRandomName />
+  <TxtRecordStart>Recording has started.</TxtRecordStart>
+  <TxtRecordStop>Recording has stopped.</TxtRecordStop>
+  <Ckbox1Checked>true</Ckbox1Checked>
+  <ckboxDeveloperChecked>true</ckboxDeveloperChecked>
+  <CkSoundChecked>true</CkSoundChecked>
+  <CmsSoundStartSelectedItem>cms1Item2</CmsSoundStartSelectedItem>
+  <CmsSoundStopSelectedItem>cms2Item2</CmsSoundStopSelectedItem>
+  <TxtBlinkSpeed>800</TxtBlinkSpeed>
+  <ckboxFPSChecked>true</ckboxFPSChecked>
+</Settings>
